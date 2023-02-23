@@ -4,25 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faf1a7a-082f-44ad-ac4c-484ad0b319e5" name="Changes" comment="FirstCommit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/GeneralPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/NewMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/PriceDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingRentalDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingRentalInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/RentalInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/RentalLoggingInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RentalTest.java" afterDir="false" />
+    <list default="true" id="3faf1a7a-082f-44ad-ac4c-484ad0b319e5" name="Changes" comment="Todays commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Context.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RentalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RentalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/CS5722_Assignment1/ArchitecturalPatternInterceptor/src/main/java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CS5722_Assignment1/ArchitecturalPatternInterceptor/src/main/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CS5722_Assignment1\ArchitecturalPatternInterceptor\src\main\java" />
@@ -75,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676850702195</updated>
       <workItem from="1676850704432" duration="356000" />
-      <workItem from="1677084615635" duration="4947000" />
+      <workItem from="1677084615635" duration="9896000" />
+      <workItem from="1677181196917" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1676850911025</created>
@@ -84,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676850911025</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Todays commit">
+      <created>1677090106880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677090106880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FirstCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirstCommit" />
+    <MESSAGE value="Todays commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todays commit" />
   </component>
 </project>

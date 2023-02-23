@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Customer {
-    private String name;
+    protected String name;
     protected List<Rental> rentals = new ArrayList<>();
 
     public Customer(String name) {
@@ -48,8 +48,8 @@ public class Customer {
         return result;
     }
 
-    /*public void addRental(Rental rental) {
+    public void addRental(Rental rental) {
         rentals.add(rental);
         dispatcher.dispatch(rental);
-    }*/
+    }
 }

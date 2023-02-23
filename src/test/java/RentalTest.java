@@ -1,7 +1,7 @@
 import MovieRentalFramework.Movie;
 import MovieRentalFramework.Rental;
 import RentalLoggingInterceptor.Dispatcher;
-import RentalLoggingInterceptor.LoggingCustomer;
+import RentalLoggingInterceptor.LoggingInfo;
 import RentalLoggingInterceptor.LoggingRentalInterceptor;
 import RentalLoggingInterceptor.RentalInterceptor;
 import org.junit.jupiter.api.Assertions;
@@ -40,7 +40,7 @@ public class RentalTest {
         Rental rental = new Rental(movie, 3);
 
         Dispatcher dispatcher = new Dispatcher();
-        dispatcher.addInterceptor((RentalInterceptor) new LoggingCustomer());
+        dispatcher.addInterceptor((RentalInterceptor) new LoggingInfo());
 
         rental.getCharge();
 
