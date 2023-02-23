@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faf1a7a-082f-44ad-ac4c-484ad0b319e5" name="Changes" comment="Todays commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingInfo.java" afterDir="false" />
+    <list default="true" id="3faf1a7a-082f-44ad-ac4c-484ad0b319e5" name="Changes" comment="Added few changes to initial code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MovieRentalFramework/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RentalLoggingInterceptor/LoggingCustomer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RentalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RentalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +59,7 @@
       <updated>1676850702195</updated>
       <workItem from="1676850704432" duration="356000" />
       <workItem from="1677084615635" duration="9896000" />
-      <workItem from="1677181196917" duration="17000" />
+      <workItem from="1677181196917" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1676850911025</created>
@@ -80,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677090106880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added few changes to initial code">
+      <created>1677181290233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677181290233</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FirstCommit" />
     <MESSAGE value="Todays commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Todays commit" />
+    <MESSAGE value="Added few changes to initial code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added few changes to initial code" />
   </component>
 </project>
