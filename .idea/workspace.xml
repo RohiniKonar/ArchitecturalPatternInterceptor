@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faf1a7a-082f-44ad-ac4c-484ad0b319e5" name="Changes" comment="Added few changes to initial code" />
+    <list default="true" id="3faf1a7a-082f-44ad-ac4c-484ad0b319e5" name="Changes" comment="Added few changes to code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +59,7 @@
       <workItem from="1677084615635" duration="9896000" />
       <workItem from="1677181196917" duration="1293000" />
       <workItem from="1677350515140" duration="254000" />
+      <workItem from="1677357622843" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1676850911025</created>
@@ -109,7 +110,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677350725508</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added few changes to code">
+      <created>1677357650696</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677357650696</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added few changes to code">
+      <created>1677357775561</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677357775561</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added few changes to code">
+      <created>1677357890079</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677357890079</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +152,7 @@
     <MESSAGE value="FirstCommit" />
     <MESSAGE value="Todays commit" />
     <MESSAGE value="Added few changes to initial code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added few changes to initial code" />
+    <MESSAGE value="Added few changes to code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added few changes to code" />
   </component>
 </project>
