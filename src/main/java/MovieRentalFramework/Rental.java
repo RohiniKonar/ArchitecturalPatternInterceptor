@@ -3,6 +3,7 @@ package MovieRentalFramework;
 public class Rental {
     private Movie movie;
     private int daysRented;
+    private boolean dispatcher;
 
     public Rental(Movie movie, int daysRented) {
         this.movie = movie;
