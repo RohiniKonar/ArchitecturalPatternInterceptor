@@ -9,7 +9,7 @@ public class RentalLoggingInterceptor implements RentalInterceptor {
         System.out.println("Days rented: " + rental.getDaysRented());
         System.out.println("Rental charge: " + rental.getCharge());
         System.out.println("Frequent renter points earned: " + rental.getFrequentRenterPoints());
-        System.out.println("=================================");
+        System.out.println("============================");
         return charge;
     }
 }

@@ -16,11 +16,11 @@ public class Dispatcher {
         interceptors.add(interceptor);
     }
 
-    public double dispatch(Rental rental, double charge) {
+    public double dispatch(Rental rental, double chargeAmt) {
         for (RentalInterceptor interceptor : interceptors) {
-            charge = interceptor.intercept(rental, charge);
+            chargeAmt = interceptor.intercept(rental, chargeAmt);
         }
-        return charge;
+        return chargeAmt;
     }
 }
 
