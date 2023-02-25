@@ -13,9 +13,9 @@ public class Customer {
         this.name = name;
     }
 
-    /public void addRental(Rental rental) {
+    /*public void addRental(Rental rental) {
         rentals.add(rental);
-    }
+    }*/
 
     public String getName() {
         return name;

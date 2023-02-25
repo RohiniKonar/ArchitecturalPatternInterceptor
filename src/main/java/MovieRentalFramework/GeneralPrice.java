@@ -9,7 +9,7 @@ public class GeneralPrice extends PriceDetails {
 
     @Override
     public double getCharge(int daysRented) {
-        double amount = 3;
+        double amount = 5;
         if (daysRented > 1)
             amount += (daysRented - 1) * 2.5;
         return amount;
